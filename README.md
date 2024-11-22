@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Ravindra Kumar 👋
 
-<!--
-**krravi177/krravi177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer who loves building impactful software solutions. I'm always learning and exploring new technologies. Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on:
+Java FUll stack Development 
+- Contributing to open-source projects on GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 I’m looking to collaborate on:
+- Open-source projects.
+- 
+## 📫 How to reach me:
+- LinkedIn: [Ravindra Kumar](linkedin.com/in/ravindra-kumar-3854851a7)
