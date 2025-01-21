@@ -14,7 +14,7 @@ I'm a passionate software developer who loves building impactful software soluti
 
 ## 🛠️ Technologies & Tools
 
-### **Languages & Frameworks:**
+### ![Java Logo](https://upload.wikimedia.org/wikipedia/commons/1/1f/Java_logo_icon.png) **Languages & Frameworks:**
 - **Java**: Proficient in core Java and object-oriented programming concepts.
 - **J2EE**: Expertise in enterprise-level Java development for building scalable web applications.
 - **JDBC**: Experienced with Java Database Connectivity for seamless database integration.
